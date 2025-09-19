@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <div align="center"> 
   <p>Visitor count</p>
   <img src="https://profile-counter.deno.dev/:Andrew-Hoskins:/count.svg" alt="Key:: Visitor's Count" />
@@ -20,6 +18,9 @@
   <a href="mailto:Andyhoskins87@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
+  <a href="https://linkedin.com/in/andrew-hoskins87" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a>
 </div>
 
 <hr>
@@ -29,8 +30,8 @@
 <br>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,nodejs,react,nextjs,mongodb" />
   <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,git" />
+  <img src="https://skillicons.dev/icons?i=ts,react,nodejs,nextjs,python" />
 </p>
 
 <hr>
@@ -44,24 +45,8 @@
   <img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=Andrew-Hoskins&theme=transparent&count_private=true&border_radius=10&locale=en" alt="Andrew-Hoskins" />
   <img width=325 src="https://github-readme-stats.vercel.app/api/top-langs?username=Andrew-Hoskins&theme=transparent&layout=donut&hide=css&langs_count=8&border_radius=10&show_icons=true&locale=en" alt="Andrew-Hoskins Most Used Languages" />
 </div>
-
 <hr>
 
 
 
 
-
-<!--
-**Andrew-Hoskins/Andrew-Hoskins** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
