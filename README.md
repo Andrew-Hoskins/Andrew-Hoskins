@@ -8,8 +8,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=48&center=true&vCenter=true&width=500&height=70&color=4493F8&duration=4000&lines=Hi+There!+👋;+I'm+Andrew+Hoskins!;" />
 </h1>
 
-### A full-stack software engineer passionate about building beautiful, functional, and user-centric web applications. 
-
+### An enthusiastic AI/ML engineer with foundational skills in Python programming and experience using essential libraries including PyTorch and NumPy. Currently exploring the capabilities of large language models through the Hugging Face ecosystem, focusing on practical experimentation and continuous learning. 
 <br>
 
 <div align="center">
@@ -28,8 +27,7 @@
 <br>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,git" />
-  <img src="https://skillicons.dev/icons?i=react,nodejs,nextjs,python" />
+  <img src="https://skillicons.dev/icons?i=python,pytorch,git" />
 </p>
 
 <hr>
