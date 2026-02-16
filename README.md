@@ -8,7 +8,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=48&center=true&vCenter=true&width=500&height=70&color=4493F8&duration=4000&lines=Hi+There!+👋;+I'm+Andrew+Hoskins!;" />
 </h1>
 
-### An enthusiastic AI/ML engineer with foundational skills in Python programming and experience using essential libraries including PyTorch and NumPy. Currently exploring the capabilities of large language models through the Hugging Face ecosystem, focusing on practical experimentation and continuous learning. 
+### Learning Rust, working through the rust book and Rustfinity problems. 
 <br>
 
 <div align="center">
@@ -27,7 +27,7 @@
 <br>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,pytorch,git" />
+  <img src="https://skillicons.dev/icons?i=rust,python,git" />
 </p>
 
 <hr>
