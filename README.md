@@ -29,3 +29,8 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=rust,python,git" />
 </p>
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats-phi-mocha-69.vercel.app/api?username=Andrew-Hoskins&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Andrew-Hoskins&theme=tokyonight&hide_border=true)<br/>
+![](https://github-readme-stats-phi-mocha-69.vercel.app/api/top-langs/?username=Andrew-Hoskins&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
